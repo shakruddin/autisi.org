@@ -1,11 +1,12 @@
 .grid {
 	position: relative;
 	clear: both;
-	margin: 0 auto;
-	padding: 4em 0 3em;
+	margin: 0;
+	padding-top: 20px;
 	max-width: 100%;
 	list-style: none;
 	text-align: center;
+    margin-bottom: 0;
 }
 
 /* Common style */
